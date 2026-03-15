@@ -16,4 +16,4 @@ The pipeline automatically performs the following steps:
 4. The image is pushed to Artifact Registry
 5. Cloud Run deploys the application using the new image
 
-by : Lethisa
+by : Lethisa Putri
